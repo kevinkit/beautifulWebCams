@@ -41,9 +41,22 @@ Only webcams are supoorted - no streams.
 
 ## Vietnam
 
+## Can Tho City 
+
+
+|  Toyota Ninh Kieu Building toward Can Tho center | 
+:------------:
+![alt text](http://www.axonactive.com/imgct/liveview_20171101_231525.jpg) |
+
+
+## Da Nang
+
+|  PVcombank Bulding toward Son Tra peninsula | 
+:------------:
+![alt text](http://www.axonactive.com/imgdn/liveview_20171101_180011.jpg) |
 
 ## Ho Chi Minh City
 
-|  SGN International Airport | 
+|  SGN International Airport facing city center | 
 :------------:
 ![alt text](http://www.axonactive.com/imghcm/liveview_20171101_231048.jpg) |
