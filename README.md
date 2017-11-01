@@ -5,9 +5,6 @@ To contribute change the README.md (View on GitHub). Every city is only allowed 
 ## Mannheim
 
 
-## Mannheim
-
-
 
 | Water Tower | Heaven over Mannheim | Weather station Mannheim |
 :------------:|:--------------------:|:--------------------------:
