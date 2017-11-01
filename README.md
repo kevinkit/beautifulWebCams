@@ -8,9 +8,9 @@ To contribute change the README.md (View on GitHub). Every city is only allowed 
 
 
 
-| German History Musem | Heaven over Berlin | Spree |
+| German History Musem | Spree 1 | Spree 2 |
 :------------:|:--------------------:|:--------------------------:
-![alt text](http://www.dhm.de/webkamera/pics/cam1_large.jpg?foo=1509550705922) | ![alt text](http://webcam.ipb.de/cam/cam.jpg?q=webcam/cam/cam.jpg) | ![alt text](http://webcam.finanzen.de/spreecam.jpg)
+![alt text](http://www.dhm.de/webkamera/pics/cam1_large.jpg?foo=1509550705922) | ![alt text](https://www.softed.de/webcam/spreebogen.jpg) | ![alt text](http://webcam.finanzen.de/spreecam.jpg)
 
 
 ### Mannheim
