@@ -39,4 +39,11 @@ Only webcams are supoorted - no streams.
 :------------:|:--------------------:
 ![alt text](http://stream.empirecam.net:8000/oneshotimage2?90731509551398366) | ![alt text](http://www.erikthered.com/cam/reshcam_current.jpg)
 
+## Vietnam
 
+
+## Ho Chi Minh City
+
+|  SGN International Airport | 
+:------------:
+![alt text](http://www.axonactive.com/imghcm/liveview_20171101_231048.jpg) |
