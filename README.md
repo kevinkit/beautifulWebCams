@@ -35,8 +35,8 @@ Only webcams are supoorted - no streams.
 
 ### New York City
 
-| Sixth Avenue  | View from empire state building | view of Pier "a" on the Hudson River |
-:------------:|:--------------------:|:--------------------------:
-![alt text](https://511ny.org/map/Cctv/4616421--17?88981509551315705) | ![alt text](http://stream.empirecam.net:8000/oneshotimage2?90731509551398366) | ![alt text](http://www.erikthered.com/cam/reshcam_current.jpg)
+|  View from empire state building | view of Pier "a" on the Hudson River |
+:------------:|:--------------------:
+![alt text](https://www.511ny.org/map/Cctv/4616533--17) | ![alt text](http://www.erikthered.com/cam/reshcam_current.jpg)
 
 
