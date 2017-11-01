@@ -4,6 +4,15 @@ To contribute change the README.md (View on GitHub). Every city is only allowed 
 
 ## Germany
 
+### Berlin
+
+
+
+| RBB television central | Heaven over Mannheim | Weather station Mannheim |
+:------------:|:--------------------:|:--------------------------:
+![alt text](https://www.berlin.de/webcams/fsz/webcam.jpg?ts=251591768) | ![alt text](http://cam.mannheim-wetter.info/cam1/mannheim-himmel-0.jpg) | ![alt text](http://klymiuk.info/wetter/webcam/webcam/current.jpg)
+
+
 ### Mannheim
 
 
