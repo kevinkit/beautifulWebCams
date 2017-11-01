@@ -1,5 +1,6 @@
 # Welcome to Beautiful webcams, feel free to add ! 
 
+To contribute change the README.md. Every city is only allowed to have five cameras at once. 
 
 ## Mannheim
 
