@@ -2,7 +2,7 @@
 
 To contribute change the README.md (View on GitHub). Every city is only allowed to have three cameras at once. Please keep the cities in alphabetical order. 
 
-Only webcams are supoorted - no streams.
+Only webcams are supported - no streams.
 
 ## Germany
 
