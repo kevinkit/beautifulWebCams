@@ -8,9 +8,9 @@ To contribute change the README.md (View on GitHub). Every city is only allowed 
 
 
 
-| RBB television central | Heaven over Mannheim | Weather station Mannheim |
+| German History Musem | Heaven over Berlin | Spree |
 :------------:|:--------------------:|:--------------------------:
-![alt text](https://www.berlin.de/webcams/fsz/webcam.jpg?ts=251591768) | ![alt text](http://cam.mannheim-wetter.info/cam1/mannheim-himmel-0.jpg) | ![alt text](http://klymiuk.info/wetter/webcam/webcam/current.jpg)
+![alt text](http://www.dhm.de/webkamera/pics/cam1_large.jpg?foo=1509550705922) | ![alt text](http://webcam.ipb.de/cam/cam.jpg?q=webcam/cam/cam.jpg) | ![alt text](http://webcam.finanzen.de/spreecam.jpg)
 
 
 ### Mannheim
